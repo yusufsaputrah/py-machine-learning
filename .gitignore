@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS file
+.DS_Store
+
+# Data files (Opsional: hapus tanda # jika dataset tidak ingin di-upload)
+# *.csv
+# *.xlsx
+# dataset_clustering_project/
+
+# Generated zip files
+*.zip
+BMLP_Submission.zip
+BMLP_Yusuf_Saputrah.zip
+
+# Models (Opsional: hapus tanda # jika file model .h5 terlalu besar untuk di-upload)
+# *.h5
+
+# PyBuilder
+.pybuilder/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary scripts
+fill_notebooks.py
+list_cells*.py
